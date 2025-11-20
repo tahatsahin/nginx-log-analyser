@@ -7,3 +7,5 @@ to be able to run the script, clone the repository, run the script with the ngin
 ```bash
 ./log-analyser.sh nginx-logs
 ```
+
+Project URL: https://roadmap.sh/projects/nginx-log-analyser
